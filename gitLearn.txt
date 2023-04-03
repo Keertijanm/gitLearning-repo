@@ -16,3 +16,7 @@ To merge a branch into current branch
 ---------------------------------------
 To do add and commit both together
    -> git commit -am "message"
+
+------------------------------------------
+Git is a version control tool
+ GitHub is a web hoisting platform
