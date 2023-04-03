@@ -26,5 +26,11 @@ Git is a version control tool
 
 To add remote repo to your local git repo
     ->git remote add origin repo_url
+<<<<<<< HEAD
+To push all files or change from local to remote repo
+=======
 To push all files or change of an branch  from local to remote repo
+>>>>>>> branch1
   -> git push -u origin master(branch_name)
+
+pull= git fetch +git merge 
