@@ -1,0 +1,7 @@
+command :
+To check status of changes and file-
+  -> git status
+
+To add/stage file -
+   -> git add file_name
+
