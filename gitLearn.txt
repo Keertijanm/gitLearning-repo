@@ -6,4 +6,13 @@ To add/stage file or modified file -
    -> git add file_name
 To remove files from Staging area(for Unstage)-
   ->git rm --cached file_name
+To create a new Branch with name as branch_name
+   -> git branch branch_name
 
+To switch from current branch to another
+   -> git checkout branch_name
+To merge a branch into current branch
+   -> git merge branch_namde
+---------------------------------------
+To do add and commit both together
+   -> git commit -am "message"
