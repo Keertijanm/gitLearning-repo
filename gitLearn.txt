@@ -1,4 +1,5 @@
 command :
+Local
 To check status of changes and file-
   -> git status
 
@@ -16,3 +17,14 @@ To merge a branch into current branch
 ---------------------------------------
 To do add and commit both together
    -> git commit -am "message"
+
+------------------------------------------
+Git is a version control tool
+ GitHub is a web hoisting platform remote
+
+------------->Remote repo command
+
+To add remote repo to your local git repo
+    ->git remote add origin repo_url
+To push all files or change of an branch  from local to remote repo
+  -> git push -u origin master(branch_name)
